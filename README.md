@@ -25,3 +25,13 @@
         6. BeanFactory와 ApplicationContext
         7. 다양한 설정 형식 지원 - 자바 코드,XML
         8. 스프링 빈 설정 메타 정보 - BeanDefinition
+
+### chapter 4. 싱글톤 컨테이너 
+        1. 웹 애플리케이션과 싱글톤
+        2. 싱글톤 패턴
+        3. 싱글톤 컨테이너
+        4. 싱글턴 방식의 주의점
+        5. @Configuration과 싱글톤
+        6. @Configuration과 바이트코드 조작의 마법
+
+
